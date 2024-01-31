@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **ReactJS, NextJS, JavaScript, NodeJS, TailwindCSS, C++, Java, DBMS**
 
-- ⚡ Fun fact **I think I am funny, but some may have a different opinion**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
