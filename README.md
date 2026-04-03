@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashmeet-coder" alt="yashmeet-coder" /></a> </p>
 
-- 🌱 I’m currently learning **Typescript, Next-Auth, GraphQL**
+- 🌱 I’m currently learning **Typescript, GraphQL**
 
-- 💬 Ask me about **ReactJS, NextJS, JavaScript, NodeJS, TailwindCSS, C++, Java, DBMS**
+- 💬 Ask me about **ReactJS, NextJS, JavaScript, Python, Django, NodeJS, TailwindCSS, C++, Java, DBMS**
 
 
 
