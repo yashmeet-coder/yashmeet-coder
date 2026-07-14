@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Yashmeet 👋<br>Software Engineer with experience building production web applications.<br><br>Tech Stack<br>Frontend: React, Next.js, TypeScript, Tailwind CSS<br>Backend: Django, Python, PostgreSQL, Redis<br>AI: LangGraph, OpenAI APIs<br>Tools: Git, Docker, Linux, AWS<br>What I'm Working On<br>AI-powered applications<br>Scalable SaaS products<br>Modern frontend architecture<br>Always learning, always shipping.
+Hi, I'm Yashmeet 👋<br>Software Engineer with experience building production web applications.<br><br>Tech Stack<br>Frontend: React, Next.js, TypeScript, Tailwind CSS<br>Backend: Django, Python, PostgreSQL, Redis<br>AI: LangGraph, OpenAI APIs<br>Tools: Git, Docker, Linux, AWS<br><br>What I'm Working On<br>AI-powered applications<br>Scalable SaaS products<br>Modern frontend architecture<br><br>Always learning, always shipping.
 
 
 # 💻 Tech Stack:
