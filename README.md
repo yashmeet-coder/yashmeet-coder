@@ -1,13 +1,19 @@
-<h1 align="center">Hi 👋, I'm Yashmeet</h1>
-<h3 align="center">A passionate Full Stack Web Developer from India</h3>
+# Hi, I'm Yashmeet 👋
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashmeet-coder" alt="yashmeet-coder" /></a> </p>
+Software Engineer with experience building production web applications.
 
-- 🌱 I’m currently learning **Typescript, GraphQL**
+## Tech Stack
+- Frontend: React, Next.js, TypeScript, Tailwind CSS
+- Backend: Django, Python, PostgreSQL, Redis
+- AI: LangGraph, OpenAI APIs
+- Tools: Git, Docker, Linux, AWS
 
-- 💬 Ask me about **ReactJS, NextJS, JavaScript, Python, Django, NodeJS, TailwindCSS, C++, Java, DBMS**
+## What I'm Working On
+- AI-powered applications
+- Scalable SaaS products
+- Modern frontend architecture
 
-
+Always learning, always shipping.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
